@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="msgTo">null</string>
+    <string name="msgSubject">null</string>
+    <string name="Message">null</string>
+    <string name="submit">null</string>
+</resources>
